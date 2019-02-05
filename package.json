@@ -1,0 +1,13 @@
+{
+  "devDependencies": {},
+  "dependencies": {},
+  "bin": {
+    "outside": "bin/outside"
+  },
+  "name": "buns-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/snurby7/buns-cli",
+  "author": "Ryan Bruns",
+  "license": "MIT"
+}
